@@ -1,0 +1,3 @@
+# Cursor workspace files
+*.code-workspace
+.claude/*
